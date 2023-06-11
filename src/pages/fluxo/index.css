@@ -1,5 +1,14 @@
 .fluxo{
     padding: 25px 50px;
-    background-color: rgb(255, 221, 0);
+    background-color: orange;
     height: 430px;
+}
+.caixa{
+    margin-top: 15px;
+    color: blue;
+    font-size: 15px;
+    text-align: center;
+}
+.inputText{
+    font-size: 100px;
 }

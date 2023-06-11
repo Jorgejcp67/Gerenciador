@@ -1,5 +1,17 @@
-.cadastro{
-    padding: 25px 50px;
-    background-color: rgb(255, 221, 0);
-    height: 430px;
+.Cadastro{
+    margin-top: 10px;
+    background-color: rgb(238, 176, 60);
+   
+    
+   
+}
+.Credito{
+   
+    text-align: center;
+    
+}
+.Debito{
+    
+    
+    text-align: center;
 }

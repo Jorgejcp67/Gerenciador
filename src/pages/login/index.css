@@ -1,5 +1,24 @@
-.login{
-    padding: 25px 50px;
-    background-color: rgb(255, 221, 0);
-    height: 430px;
+.Logo{
+    width: 80%;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding: 5px 45px;
+    color: blue;
+    
+}
+.nomes{
+    text-align:center;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.esqueci-senha{
+    text-align: center;
+    font-size: 10px;
+    margin-bottom: 20px;
+    
+}
+.esqueci-senha>a{
+    text-decoration: none;
+    font-style: italic;
 }

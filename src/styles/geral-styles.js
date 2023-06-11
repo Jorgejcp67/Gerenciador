@@ -18,7 +18,7 @@ export const NavBar = styled.ul`
     li a {
         display: block;
         color: #fff;
-        padding: 15px 17px;
+        padding: 15px 15px;
         text-decoration: none;
         text-align:center;
 
@@ -30,3 +30,12 @@ export const NavBar = styled.ul`
 
 
 `;
+export const DivPersonalisada =styled.div`
+      width: ${props => props.width};
+      border: ${props => props.border};
+      padding: ${props =>props.border};
+      margin: ${props => props.margin};
+      margin-top:${props => props.marginTop};
+      background-color:orange;
+`;
+

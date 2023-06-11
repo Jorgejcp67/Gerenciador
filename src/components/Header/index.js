@@ -7,6 +7,8 @@ import { Link } from "react-router-dom";
 
 // primeiro componente
 const Header =()=>(
+
+   
     <NavBar>
          <li>
             <Link to={'/'}>Principal</Link>
@@ -20,10 +22,12 @@ const Header =()=>(
          <li>
             <Link to={'/cadastro'}>Cadastro</Link>
          </li>
+        
 
     </NavBar>
-  
+   
 
-);
+
+)
 
 export default Header;

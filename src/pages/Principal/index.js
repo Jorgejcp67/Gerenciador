@@ -9,9 +9,10 @@ export default class Principal extends React.Component{
                <center>
                  
                  <h1>APP de controle financeiro</h1>
-                 <h1>Fluxo de caixa</h1>
-                 <h1>Credito</h1>
-                 <h1>Debito</h1>
+                 <h2>Fluxo de caixa</h2>
+                 
+                 <h2>Credito</h2>
+                 <h2>Debito</h2>
                 <Link to= "/login">login</Link>
                </center>
               
